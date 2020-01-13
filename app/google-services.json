@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959388130824",
+    "firebase_url": "https://eventdatabasespyratos1312.firebaseio.com",
+    "project_id": "eventdatabasespyratos1312",
+    "storage_bucket": "eventdatabasespyratos1312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959388130824:android:84457705e10b1cd14cbbbd",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959388130824-9e9553adjkhr5n0tnef15am23k8o80nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-cAxpySlqjfIIWj35ttTuQ8rQZtIe0cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959388130824-9e9553adjkhr5n0tnef15am23k8o80nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
